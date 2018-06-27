@@ -1,0 +1,27 @@
+body
+{
+  background-color:red;
+  color:blue;
+}
+#title
+{
+  color:black;
+  background-color:blue;
+  font-size: 100px;
+  font-style: italic;
+}
+#alljets{
+  font-size:50px;
+}
+#ourjets{
+  font-size:50;
+}
+#fart{
+  font-style: italic;
+  float:right;
+  background-color:black;
+}
+#video{
+  font-style: italic;
+  background-color:black;
+}
